@@ -1,0 +1,15 @@
+Windowname:"FORTNITE  "
+NUM_CLASSES:1
+Input_Size_X:256
+Input_Size_Y:256
+Blob_Size_X:384
+Blob_Size_Y:384
+Mouse_Bypass:0
+Aim_Pos: 0
+Aim_Speed:15.0
+Speed_Modifier:0
+Confidence:0.6
+NMS:0.4
+HEAD:1
+BODY:0
+Head_Y:0.1
