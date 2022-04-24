@@ -1,5 +1,5 @@
 Windowname:"Counter-Strike: Global Offensive"
-NUM_CLASSES:2
+NUM_CLASSES:1
 Input_Size_X:256
 Input_Size_Y:256
 Blob_Size_X:256
